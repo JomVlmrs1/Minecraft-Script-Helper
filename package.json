@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@minecraft/math": "^1.4.0",
+    "@minecraft/server": "^1.15.0",
+    "@minecraft/server-admin": "^1.0.0-beta.11940b24",
+    "@minecraft/server-net": "^1.0.0-beta.11940b24",
+    "@minecraft/vanilla-data": "^1.21.44"
+  }
+}
